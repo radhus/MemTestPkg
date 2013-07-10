@@ -66,7 +66,6 @@
 
 [LibraryClasses.common.UEFI_APPLICATION]
   MemoryAllocationLib|MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib.inf
-  DebugLib|MdePkg/Library/UefiDebugLibStdErr/UefiDebugLibStdErr.inf
 
 [Components.common]
   MemTestPkg/MemTest.inf {

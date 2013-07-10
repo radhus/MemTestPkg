@@ -46,6 +46,7 @@ STATIC UINTN  mLastPercent;
 
 **/
 VOID
+EFIAPI
 MtUiSetTestName (
   IN CHAR16        *TestName
   )
